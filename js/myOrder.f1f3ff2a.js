@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["myOrder"],{"2d51":function(t,n,e){},"607f":function(t,n,e){"use strict";e("2d51")},"72ba":function(t,n,e){"use strict";e.r(n);var r=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"myContent"},[e("router-view")],1)},s=[],c={},i=c,u=(e("607f"),e("2877")),o=Object(u["a"])(i,r,s,!1,null,"3f793f48",null);n["default"]=o.exports}}]);
-//# sourceMappingURL=myOrder.f1f3ff2a.js.map
