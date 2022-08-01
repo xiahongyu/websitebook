@@ -1,12 +1,12 @@
 {
-	"name": "testvuecli3",
+	"name": "书城网站",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d dist -r https://github.com/xiahongyu/bookwebsite.git -b book-webkit"
+		"deploy": "gh-pages -d dist -r https://github.com/xiahongyu/websitebook.git -b book-webkit"
 	},
 	"dependencies": {
 		"axios": "^0.24.0",
